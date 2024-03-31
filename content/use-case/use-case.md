@@ -1,8 +1,8 @@
 ---
 ID: "92e8eb7c453c"
 createdAt: "2024-01-20T17:37:24.000Z"
-updatedAt: "2024-03-31T21:14:40.187Z"
-status: "draft"
+updatedAt: "2024-03-31T21:14:42.853Z"
+status: "publish"
 slug: "use-case"
 title: "Streamlining Content Management with Contentrain: A Success Story of \"Bloom Digital Agency\""
 description: "Bloom Digital Agency, a mid-sized digital marketing agency, faced challenges managing their diverse content needs. With a growing client list and an expanding portfolio of services, including SEO, social media marketing, and content creation, they needed a solution that could streamline their content management process, enhance collaboration among teams, and ensure consistency across client projects."
