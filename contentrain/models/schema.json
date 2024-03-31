@@ -58,5 +58,27 @@
     "system": true,
     "defaultField": false,
     "modelId": "schema"
+  },
+  {
+    "name": "relation",
+    "fieldId": "relation",
+    "modelId": "schema",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "schema"
+          }
+        }
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "relation"
   }
 ]
