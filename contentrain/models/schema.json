@@ -106,5 +106,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "phone number",
+    "fieldId": "phone-number",
+    "modelId": "schema",
+    "componentId": "phone-number",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
