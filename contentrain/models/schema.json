@@ -133,5 +133,27 @@
     "options": {},
     "validations": {},
     "fieldType": "boolean"
+  },
+  {
+    "name": "relation many",
+    "fieldId": "relation-many",
+    "modelId": "schema",
+    "componentId": "one-to-many",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "articles"
+          }
+        }
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "relation"
   }
 ]
