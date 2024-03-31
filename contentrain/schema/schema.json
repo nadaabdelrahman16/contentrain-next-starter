@@ -1,0 +1,19 @@
+[
+  {
+    "ID": "6d36948e2586",
+    "createdAt": "Sun Mar 31 2024 23:08:21 GMT+0200 (Eastern European Standard Time)",
+    "updatedAt": "Sun Mar 31 2024 23:08:21 GMT+0200 (Eastern European Standard Time)",
+    "relation": "0f82ee913c98",
+    "url": "https://app.contentrain.io/workspaces/01l3wuhn7r/projects/cldmjmcgnr/content/schema/create",
+    "email": "nadaabdelrahman776@gmail.com",
+    "phone-number": "01-3370982",
+    "date": "2024-03-21T21:08:00.000Z",
+    "relation-many": [
+      "0f82ee913c98",
+      "3a12ee13f62c",
+      "8b262f9692cf"
+    ],
+    "status": "publish",
+    "scheduled": false
+  }
+]
