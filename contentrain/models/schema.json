@@ -124,5 +124,14 @@
     "options": {},
     "validations": {},
     "fieldType": "date"
+  },
+  {
+    "name": "booleaan",
+    "fieldId": "booleaan",
+    "modelId": "schema",
+    "componentId": "switch",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
