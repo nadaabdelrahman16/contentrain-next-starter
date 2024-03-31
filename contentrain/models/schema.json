@@ -115,5 +115,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "date",
+    "fieldId": "date",
+    "modelId": "schema",
+    "componentId": "date-time",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
