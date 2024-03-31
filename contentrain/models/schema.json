@@ -80,5 +80,22 @@
       }
     },
     "fieldType": "relation"
+  },
+  {
+    "name": "url",
+    "fieldId": "url",
+    "modelId": "schema",
+    "componentId": "url",
+    "options": {
+      "title-field": {
+        "value": true
+      }
+    },
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string"
   }
 ]
