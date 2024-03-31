@@ -9,10 +9,10 @@
   },
   {
     "ID": "3a12ee13f62c",
-    "createdAt": "Sun Mar 31 2024 23:06:44 GMT+0200 (Eastern European Standard Time)",
-    "updatedAt": "Sun Mar 31 2024 23:06:44 GMT+0200 (Eastern European Standard Time)",
-    "title": "Title 3",
-    "status": "publish",
+    "createdAt": "2024-03-31T21:06:44.000Z",
+    "updatedAt": "2024-03-31T21:07:06.716Z",
+    "status": "changed",
+    "title": "Title 4",
     "scheduled": false
   },
   {
