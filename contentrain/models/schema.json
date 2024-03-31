@@ -97,5 +97,14 @@
       }
     },
     "fieldType": "string"
+  },
+  {
+    "name": "email",
+    "fieldId": "email",
+    "modelId": "schema",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
